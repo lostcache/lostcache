@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I’m Harsh Devisha (@lostcache) MS CS @LMU | Founding Engineer [@setfindr](setfindr.com)
+- 👋 Hi, I’m Harsh Devisha (@lostcache) MS CS @LMU | Founding Engineer [@setfindr](https://www.setfindr.com)
 - 👀 I’m interested in Systems
 - 🌱 I’m currently learning Zig, Ocaml, federated learning systems and Cloud Management
 - 💞️ I’m looking to collaborate on ANYTHING!
