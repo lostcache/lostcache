@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ANYTHING!
 - 📫 How to reach me - harshdevisha91@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like windows (not microsoft)
+
 
 <!---
 lostcache/lostcache is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
