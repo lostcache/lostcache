@@ -1,4 +1,4 @@
-- 🛠️ working on 🛠️ : [Zue](https://github.com/lostcache/Zue)
+- 🛠️ working on 🛠️ : [Zue](https://github.com/lostcache/Zue) && [Parallel-Computing Paper/Article/...](https://lostcache.github.io/Parallel-Computing/)
 - 📚 learning 📚   : zig, Ocaml
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-devisha) 
