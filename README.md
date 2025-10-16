@@ -1,4 +1,4 @@
-- 🛠️ working on 🛠️ : [DunnOS](https://github.com/lostcache/dunnOS)
+- 🛠️ working on 🛠️ : [Zue](https://github.com/lostcache/Zue)
 - 📚 learning 📚   : zig, Ocaml
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-devisha) 
