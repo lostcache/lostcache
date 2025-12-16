@@ -14,7 +14,7 @@
 
   ### 🛠️ Currently Working On
   - [**Zue**](https://github.com/lostcache/Zue) - Distributed storage engine with Raft-like consensus in Zig
-  - [**Parallel Computing Research**](https://lostcache.github.io/Parallel-Computing/)
+  - Collaborative Mobile Agents (Research)
 
   ### 📚 Learning
   - **Zig** - Systems programming and performance optimization
