@@ -2,7 +2,7 @@
 
   # 👋 Hey, I'm Harsh Devisha
 
-  **Software Engineer | Systems Programming Enthusiast | MS CS @ LMU**
+  **Software Engineer | Distributed Systems | Collaborative Mobile Agents
 
   Building distributed systems, language interpreters, and full-stack applications.
 
