@@ -2,7 +2,7 @@
 
   # 👋 Hey, I'm Harsh Devisha
 
-  **Software Engineer | Distributed Systems | Collaborative Mobile Agents
+  **Software Engineer | Distributed Systems | Collaborative Mobile Agents**
 
   Building distributed systems, language interpreters, and full-stack applications.
 
